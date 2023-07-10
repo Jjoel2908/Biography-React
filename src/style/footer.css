@@ -1,0 +1,15 @@
+footer{
+    position: relative;
+    margin: 20px auto;
+    width: 1200px;
+    height: 90px;
+    background-color: rgb(20, 19, 106);
+}
+
+.foot {
+    color:white;
+    font-size: 1.1rem;
+    line-height: 230%;
+    justify-content: center;
+    text-align: center;
+}

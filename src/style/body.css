@@ -1,0 +1,63 @@
+section {
+    position: relative;
+    margin: auto;
+    width: 1200px;
+    height: 1680px;
+}
+
+.left {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 48px;
+    height: 1680px;
+    background-color: rgb(20, 19, 106);
+}
+
+.right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 48px;
+    height: 1680px;
+    background-color: rgb(20, 19, 106);
+}
+
+article {
+    position: absolute;
+    left: 40px;
+    top: 0;
+    width: 1128px;
+    height: 1680px;
+}
+
+.section-title {
+    line-height: 340%;
+    font-size: 1.6rem;
+    padding: 0 6%;
+    text-transform: capitalize;
+    color: rgb(226, 60, 0);
+}
+
+label {
+    color: rgb(226, 60, 0);
+    font-weight: bold;
+    margin-right: 28px;
+    font-size: 1.3rem;
+}
+
+.title b {
+    color:black;
+    font-size: 1.3rem;
+}
+
+p {
+    color: black;
+    line-height: 130%;
+    padding: 0 6%;
+    text-align: justify;
+}
+
+.info {
+    font-size: 1.3rem;
+}

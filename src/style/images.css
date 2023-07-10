@@ -1,0 +1,24 @@
+.top {
+    position: relative;
+    margin: 10px auto;
+    width: 1200px;
+    height: 260px;
+}
+
+.top ul {
+    width: 1200px;
+    height: 260px;
+}
+
+.top ul li {
+    float: left;
+    width: 390px;
+    height: 260px;
+    margin-right: 10px;
+}
+
+.myphotos {
+    width: 400px;
+    height: 260px;
+
+}
